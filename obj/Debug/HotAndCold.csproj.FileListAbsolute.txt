@@ -1,0 +1,9 @@
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\bin\Debug\HotAndCold.exe.config
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\bin\Debug\HotAndCold.exe
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\bin\Debug\HotAndCold.pdb
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\obj\Debug\HotAndCold.csprojResolveAssemblyReference.cache
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\obj\Debug\HotAndCold.GameForm.resources
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\obj\Debug\HotAndCold.Properties.Resources.resources
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\obj\Debug\HotAndCold.csproj.GenerateResource.Cache
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\obj\Debug\HotAndCold.exe
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\HotAndCold\HotAndCold\obj\Debug\HotAndCold.pdb
